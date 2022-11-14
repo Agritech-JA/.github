@@ -1,4 +1,4 @@
-<a href="https://discord.gg/5dZPVytKnn">
+<a href="https://discord">
     <h3 align="center">
         <img src="https://imgur.com/biPggnm.png" width="280"><br>
         Software Developers Community
@@ -6,7 +6,7 @@
 </a>
 
 <div align="center">
-    <a href="https://discord.gg/5dZPVytKnn">
+    <a href="https://discord">
         <img alt="Discord server" 
              src="https://img.shields.io/discord/914797672907563041?colorA=1e1e28&colorB=c6aae8&label=Discord&logo=discord&logoColor=white&style=for-the-badge">
     </a>
