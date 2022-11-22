@@ -8,6 +8,6 @@
 <div align="center">
     <a href="https://discord.gg/bjEgHS7d">
         <img alt="Discord server" 
-             src="https://img.shields.io/discord/1044463450790838292/1044463451248001074?colorA=1e1e28&colorB=c6aae8&label=Discord&logo=discord&logoColor=white&style=for-the-badge">
+             src="https://img.shields.io/discord/1044463451248001074?colorA=1e1e28&colorB=c6aae8&label=Discord&logo=discord&logoColor=white&style=for-the-badge">
     </a>
 </div><br>
