@@ -1,6 +1,6 @@
 <a href="https://discord">
     <h3 align="center">
-        <img src="https://github.com/Aogiri-11th-Ward/.github/blob/main/profile/logofarm.png" width="280"><br>
+        <img src="https://github.com/Aogiri-11th-Ward/.github/blob/main/profile/farmdb.svg" width="280"><br>
         Software Developers Community
     </h3>
 </a>
