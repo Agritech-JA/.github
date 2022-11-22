@@ -1,6 +1,7 @@
-<a href="https://discord">
+<a href="https://discord.gg/bjEgHS7d">
     <h3 align="center">
         <img src="https://github.com/Aogiri-11th-Ward/.github/blob/main/profile/farmdb.svg" width="280"><br>
+        <p></p>
         Software Developers Community
     </h3>
 </a>
