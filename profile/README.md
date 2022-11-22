@@ -2,7 +2,7 @@
     <h3 align="center">
         <img src="https://github.com/Aogiri-11th-Ward/.github/blob/main/profile/farmdb.svg" width="280"><br>
         <p></p>
-        Software Developers Community
+        Software Developers Community :tractor:	
     </h3>
 </a>
 
